@@ -1,6 +1,6 @@
 # webpack
 Взаимодействие с webpack. Работа с такими форматами как: 
-html,css,less,sass,js,ts,jsx. 
+HTML, CSS, Less, Sass, JS, TS, JSX. 
 А так же взаимодействие с изображениями, шрифтами, иконками и другие.
 
 # npm run dev - сборка проекта в режиме development
