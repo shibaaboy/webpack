@@ -1,0 +1,30 @@
+@import '~normalize.css';
+@import 'font.css';
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  border: 1px solid red;
+}
+
+h1 {
+  text-align: center;
+}
+
+.logo {
+  background-image: url('../img/yandex.png');
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.code {
+  color: rgba(255, 0, 0, 0.506);
+}
