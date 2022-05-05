@@ -1,7 +1,7 @@
 # webpack
 Настройка Webpack (v5). Взаимодействие с такими форматами как: 
 HTML, CSS, Less, Sass, JS, TS, JSX. 
-А так же с изображениями, шрифтами, иконками и другие.
+А так же с изображениями, шрифтами, иконками и др.
 
 # npm run dev - сборка проекта в режиме development
 # npm run build - сборка проекта в режиме production + webpack-bundle-analyzer
